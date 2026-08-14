@@ -1,4 +1,4 @@
-# Adaptive LMS Equalizer
+# Smart Adaptive Equalizer
 
 A MATLAB-based simulation of an adaptive FIR equalizer using LMS-based adaptation for channel equalization.
 
